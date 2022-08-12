@@ -1,10 +1,10 @@
 ### Olá, me chamo Rômulo Pinheiro👋
 
 
-- 🔭 Hoje atuo como Scrum Master.
+- 🔭 Atualmente atuo como Scrum Master.
 - 🌱 Sempre aprimorando conhecimento.
-- 🎯 Gosto de Novos Desafios.
-- 📚 Professor da Universidade  da Amazônia - UNAMA
+- 🎯 Gosto de Desafios.
+- 📚 Para sempre Professor. 
 
  <div>
   <a href="https://github.com/romulopin">

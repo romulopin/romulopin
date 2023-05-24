@@ -1,10 +1,11 @@
 ### Olá, me chamo Rômulo Pinheiro👋
 
 
-- 🔭 Atualmente atuo como Scrum Master.
+- 🔭 Coordenador P&D - RNP.
 - 🌱 Sempre aprimorando conhecimento.
 - 🎯 Gosto de Desafios.
-- 📚 Para sempre Professor. 
+- 🧭 Empreendedor.
+- 📚 Para sempre Professor/Pesquisador. 
 
  <div>
   <a href="https://github.com/romulopin">
